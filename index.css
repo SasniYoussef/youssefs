@@ -1,10 +1,31 @@
-h1{
-    color: brown;
+.prh1{
+    color: rgb(172, 41, 41);
     text-align: center;
 }
-
-span{
+.dxh1{
+    color: blueviolet;
+    text-align: center;
+}
+.prspan{
     color: rgb(30, 40, 131);
+font-size: 50px;
 
-
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    margin-top: 30px;
+}
+.demspan{
+    color: bisque;
+    font-size: 100px;
+}
 }
